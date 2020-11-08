@@ -1,6 +1,9 @@
 ## Django (A python web framework) important notes !!!
+#### Install Python and pip (for linux)
+`sudo apt-get update && sudo apt-get -y upgrade` (for update)
+`sudo apt-get install python3`
+`sudo apt-get install -y python3-pip`
 
-#### first confirm python3 and pip3 are installed in your pc. (in windows python and pip) 
 
 #### check python version
 
@@ -8,7 +11,7 @@
 
 #### check pip version
 
-`py -m pip --version`
+`pip --version`
 
 
 ###### first go to your desired folder where you want to install django project, here "django_project"is that folder
